@@ -1,6 +1,6 @@
 {
-  "name": "osx-pkg",
-  "version": "1.0.0",
+  "name": "@octoblu/osx-pkg",
+  "version": "1.0.1",
   "description": "create mac osx flat packages (.pkg)",
   "main": "index.js",
   "bin": "./cli.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/finnp/osx-pkg.git"
+    "url": "https://github.com/octoblu/osx-pkg.git"
   },
   "keywords": [
     "pkg",
@@ -21,9 +21,9 @@
   "author": "Finn Pauls",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/finnp/osx-pkg/issues"
+    "url": "https://github.com/octoblu/osx-pkg/issues"
   },
-  "homepage": "https://github.com/finnp/osx-pkg",
+  "homepage": "https://github.com/octoblu/osx-pkg",
   "dependencies": {
     "cpio-fs": "^1.0.0",
     "cpio-stream": "^1.2.3",
