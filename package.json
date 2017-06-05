@@ -1,6 +1,6 @@
 {
   "name": "@octoblu/osx-pkg",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "create mac osx flat packages (.pkg)",
   "main": "index.js",
   "bin": "./cli.js",
